@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'SUIT Variable', sans-serif;
+    font-size: 20px;
+}
+
+#btnButton {
+    padding: .5rem 1rem;
+    border: 0;
+    border-radius: 500rem;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
+    transition: .25s;
+
+    &:hover {
+        background-color: red;
+    }
+}
