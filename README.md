@@ -1,5 +1,4 @@
-# DevCourse - SoRaang's Practice
-
+# Hi, I am SoRaang
 #### Front-end Web Developer / Designer
  
 #### 기술스택
