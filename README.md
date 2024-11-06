@@ -10,4 +10,4 @@ Front-end Web Developer / Designer
 
 #### 최근 GitHub 활동
 
-- 오래된 프로젝트 및 무의미한 연습용 Repository 정리 (2024. 11. 06)
+- 오래된 프로젝트 및 무의미한 연습용 Repository 정리 `(2024. 11. 06)`
