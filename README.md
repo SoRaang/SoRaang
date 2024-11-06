@@ -2,6 +2,10 @@
 Front-end Web Developer / Designer
 > 프론트엔드 웹 개발자 / 디자이너
 
+## 소개
+
+- 작성중
+
 
 #### 기술스택
 
@@ -10,4 +14,4 @@ Front-end Web Developer / Designer
 
 #### 최근 GitHub 활동
 
-- 오래된 프로젝트 및 무의미한 연습용 Repository 정리 `(2024. 11. 06)`
+- 오래된 프로젝트 및 무의미한 연습용 Repository 정리 `2024. 11. 06`
