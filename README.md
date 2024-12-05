@@ -17,4 +17,4 @@ Front-end Web Developer / Designer
 - 오래된 프로젝트 및 무의미한 연습용 Repository 정리 `2024. 11. 06`
 
 
-[![SoRaang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoRaang)](https://github.com/anuraghazra/github-readme-stats)
+[![SoRaang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoRaang&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
